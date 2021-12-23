@@ -18,4 +18,4 @@ Soon will be updated ✌🏼
 
 ### Core Members
 
-### Members
+### Members 
