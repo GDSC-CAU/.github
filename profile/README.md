@@ -1,6 +1,6 @@
 # Google Developer Students Club | Chung Ang University
 
-![GDSC CAU Logo](./contents/GoodleDSC_CAU.png)
+![GDSC CAU Logo](./contents/GoodleDSC-CAU.png)
 
 ## About Us
 
