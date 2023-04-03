@@ -6,11 +6,11 @@
 
 > Google Developer Student Clubs CAU is a community group for CAU students interested in Google developer technologies.
 
-Google DSC CAU is ~
+GDSC CAU is a Student club opened for all students who want to be a better developer.
 
 ## Projects
 
-Soon will be updated ✌🏼
+You can see the projects we did in the repositories.
 
 ## Members
 
